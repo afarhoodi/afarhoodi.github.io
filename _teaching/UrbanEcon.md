@@ -1,18 +1,6 @@
----
-title: "Urban Economics"
-collection: teaching
-# permalink: /teaching/2014-spring-teaching-1
-venue: "University of Toronto"
-date: 2021-2024
----
+## Big-Data Tool and Applied Machine Learning for Economists 
+(University of Toronto summer program hosted by the University of Oxford, 2023)
 
-This is a description of a teaching experience. You can use markdown like any other post.
+[Slides](https://www.google.com), [Syllabus](https://www.google.com)
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
