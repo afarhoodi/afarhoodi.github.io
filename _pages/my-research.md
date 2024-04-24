@@ -6,11 +6,11 @@ author_profile: true
 
 ## Working Papers
 * **Households Mobility and Housing A ordability** (with Nathaniel Baum-Snow and Lu Han)
-* The draft will be ready soon.
-* Using the big data on the last 10 movements of all American households ( 2 Billion observations)
-* Developing a dynamic discrete choice model of households' location choices
-* Developing a new technique to estimate the neighborhood-level moving costs of renters and owners
-* Running the counter-factual analysis of changes in moving costs and housing supply policies
+ + The draft will be ready soon.
+ + Using the big data on the last 10 movements of all American households ( 2 Billion observations)
+ + Developing a dynamic discrete choice model of households' location choices
+ + Developing a new technique to estimate the neighborhood-level moving costs of renters and owners
+ + Running the counter-factual analysis of changes in moving costs and housing supply policies
 
 * **Democratizing the Opportunities: Who Benefits from the Airbnb Market?**
 
@@ -21,7 +21,6 @@ author_profile: true
   **Abstract:** There is growing concern that home-sharing markets can affect housing affordability. We use a theoretical model to provide key results on the mechanisms through which home-sharing can improve the quality of matches between buyers and sellers. We then test these predictions empirically using daily Airbnb data for the entire U.S. and a novel shift-share approach. We find that an increase in Airbnb increases house prices, reduces total sales, increases for-sales inventory, increases sellers' time on the market, and reduces the probability of selling a house. The empirical evidence supports the hypothesis that Airbnb has reduced the matching frictions in the housing market. We then examine heterogeneous responses to Airbnb using Generalized Random Forest (GRF). Consistent with our theoretical model, results from the GRF model indicate that locations with a less elastic housing supply respond more to the Airbnb growth.
 [SSRN working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3923826)
 
-* ** Housing Affordability and Households Mobility (with Nate Baum-Snow and Lu Han)
 ## Work in Progress
 
 * **Introducing a Micro-Founded Index of Consumption Welfare: A Big-Data Approach**
