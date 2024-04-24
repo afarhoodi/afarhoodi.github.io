@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## University of Toronto 
-### Urban Economics (2021-2024)
+### Urban Economics (2021-2024) 
 ### Big-Data and Applied Machine Learning in Economics (2023)
 * University of Toronto summer program hosted by the University of Oxford
 ### Big-Data Tools for Economists (2021)
