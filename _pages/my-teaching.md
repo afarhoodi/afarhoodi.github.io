@@ -7,8 +7,10 @@ author_profile: true
 ## University of Toronto 
 ### Urban Economics (2021-2024)
 * [Syllabus](https://www.economics.utoronto.ca/index.php/index/teaching/downloadCourseOutline/6623/997888888)
+  
 ### Big-Data and Applied Machine Learning in Economics (2023)
 * University of Toronto summer program hosted by the University of Oxford
+  
 ### Big-Data Tools for Economists (2021)
 * Topics: Introduction to Python, Git, Data Visualization and Mapping, Satellite Data, Web-scraping, Textual Analysis, Machine Learning
 [Syllabus](https://www.economics.utoronto.ca/index.php/index/teaching/downloadCourseOutline/5538/120659)
