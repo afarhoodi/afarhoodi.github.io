@@ -6,9 +6,7 @@ author_profile: true
 
 ## Working Papers
 * **Households Mobility and Housing Affordability** (with Nathaniel Baum-Snow and Lu Han)
-
-The draft will be ready soon.
-
+    + The draft will be ready soon.
     + Using the big data on the last 10 movements of a universe of American households (~2 Billion observations)
     + Developing a dynamic discrete choice model of households' location choices
     + Developing a new technique to estimate the neighborhood-level moving costs of renters and owners
