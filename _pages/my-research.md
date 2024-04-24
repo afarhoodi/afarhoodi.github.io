@@ -6,11 +6,11 @@ author_profile: true
 
 ## Working Papers
 * **Households Mobility and Housing A ordability** (with Nathaniel Baum-Snow and Lu Han)
- + The draft will be ready soon.
- + Using the big data on the last 10 movements of all American households ( 2 Billion observations)
- + Developing a dynamic discrete choice model of households' location choices
- + Developing a new technique to estimate the neighborhood-level moving costs of renters and owners
- + Running the counter-factual analysis of changes in moving costs and housing supply policies
+ ++ The draft will be ready soon.
+ ++ Using the big data on the last 10 movements of all American households ( 2 Billion observations)
+ ++ Developing a dynamic discrete choice model of households' location choices
+ ++ Developing a new technique to estimate the neighborhood-level moving costs of renters and owners
+ ++ Running the counter-factual analysis of changes in moving costs and housing supply policies
 
 * **Democratizing the Opportunities: Who Benefits from the Airbnb Market?**
 
