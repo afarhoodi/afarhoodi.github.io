@@ -1,37 +1,92 @@
 ---
-permalink: /my-teaching/
+permalink: /teaching/
 title: "Teaching"
 author_profile: true
+redirect_from:
+  - /my-teaching/
 ---
 
-## University of Toronto 
-### Urban Economics (2021-2024)
-* [Syllabus](https://www.economics.utoronto.ca/index.php/index/teaching/downloadCourseOutline/6623/997888888)
-  
-### Big-Data and Applied Machine Learning in Economics (2023)
-* University of Toronto summer program hosted by the University of Oxford
-  
-### Big-Data Tools for Economists (2021)
-* Topics: Introduction to Python, Git, Data Visualization and Mapping, Satellite Data, Web-scraping, Textual Analysis, Machine Learning
-[Syllabus](https://www.economics.utoronto.ca/index.php/index/teaching/downloadCourseOutline/5538/120659)
+## University of Wisconsin–Madison
 
-### Introduction to Microeconomics (Fall 2020)
-* More than 1800 students & 30 Teaching Assistants
+<div class="course-card">
+  <div class="course-card__header">
+    <h3 class="course-card__title">AI in Real Estate</h3>
+    <span class="badge badge--year">2026</span><span class="badge badge--new">New</span>
+  </div>
+</div>
 
-## University of Illinois
+## University of Toronto
 
-### Applied Machine Learning in Economics (Spring 2019 - Fall 2020)
-* Topics: Statistical Learning with R, Shrinkage Methods, Random Forest, Bagging, Boosting, SVM,
-Neural Networks, Causal Inference with ML. [Syllabus](https://econml.web.illinois.edu/syllabus)
-* Outstanding rating (top 5% intructors) in the “[List of Teachers Ranked as Excellent by their Students](https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2019-spring.pdf) for 3 consecutive semesters”
+<div class="course-card">
+  <div class="course-card__header">
+    <h3 class="course-card__title">Urban Economics</h3>
+    <span class="badge badge--year">2021–2025</span>
+  </div>
+  <p class="course-card__links"><a class="btn btn--paper" href="https://www.economics.utoronto.ca/index.php/index/teaching/downloadCourseOutline/6623/997888888">Syllabus</a></p>
+</div>
 
-### Teaching Assistant
-* **Intoduction to Microeconomics**
-  * Awarded in the “List of Teachers Ranked as Excellent by their Students” for 5 consecutive semesters
-* **Intermediate Microeconomics**
+<div class="course-card">
+  <div class="course-card__header">
+    <h3 class="course-card__title">Big Data and Applied Machine Learning in Economics</h3>
+    <span class="badge badge--year">2023</span>
+  </div>
+  <p class="course-card__meta">University of Toronto summer program hosted by the University of Oxford</p>
+</div>
+
+<div class="course-card">
+  <div class="course-card__header">
+    <h3 class="course-card__title">Big Data Tools for Economists</h3>
+    <span class="badge badge--year">2021</span>
+  </div>
+  <details class="reveal">
+    <summary>Topics</summary>
+    <div class="reveal__body">
+      <p>Introduction to Python, Git, Data Visualization and Mapping, Satellite Data, Web-scraping, Textual Analysis, Machine Learning</p>
+    </div>
+  </details>
+  <p class="course-card__links"><a class="btn btn--paper" href="https://www.economics.utoronto.ca/index.php/index/teaching/downloadCourseOutline/5538/120659">Syllabus</a></p>
+</div>
+
+<div class="course-card">
+  <div class="course-card__header">
+    <h3 class="course-card__title">Introduction to Microeconomics</h3>
+    <span class="badge badge--year">2020–2025</span>
+  </div>
+  <p class="course-card__meta"><span class="stat-chip">1,800+ students</span> <span class="stat-chip">30 teaching assistants</span></p>
+</div>
+
+## University of Illinois Urbana-Champaign
+
+<div class="course-card">
+  <div class="course-card__header">
+    <h3 class="course-card__title">Applied Machine Learning in Economics</h3>
+    <span class="badge badge--year">2019–2020</span>
+  </div>
+  <p class="course-card__meta"><span class="stat-chip stat-chip--gold">Top 5% of instructors — <a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2019-spring.pdf">Teachers Ranked as Excellent</a>, three consecutive semesters</span></p>
+  <details class="reveal">
+    <summary>Topics</summary>
+    <div class="reveal__body">
+      <p>Statistical Learning with R, Shrinkage Methods, Random Forest, Bagging, Boosting, SVM, Neural Networks, Causal Inference with ML</p>
+    </div>
+  </details>
+  <p class="course-card__links"><a class="btn btn--paper" href="https://econml.web.illinois.edu/syllabus">Syllabus</a></p>
+</div>
+
+<div class="course-card">
+  <div class="course-card__header">
+    <h3 class="course-card__title">Teaching Assistant</h3>
+  </div>
+  <div class="course-card__body">
+    <p><strong>Introduction to Microeconomics</strong> — recognized on the "List of Teachers Ranked as Excellent by Their Students" for five consecutive semesters</p>
+    <p><strong>Intermediate Microeconomics</strong></p>
+  </div>
+</div>
 
 ## Sharif University of Technology
-### Teaching Assistant (Graduate-Level)
-* **Econometrics I**
-* **Game Theory**
-* **Microeconomics II**
+
+<div class="course-card">
+  <div class="course-card__header">
+    <h3 class="course-card__title">Teaching Assistant (Graduate Level)</h3>
+  </div>
+  <p class="course-card__meta">Econometrics I &middot; Game Theory &middot; Microeconomics II</p>
+</div>

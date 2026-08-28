@@ -1,14 +1,10 @@
-# main links links
+# main links
 main:
   - title: "Research"
-    url: /my-research/
-   
+    url: /research/
+
   - title: "Teaching"
-    url: /my-teaching/    
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+    url: /teaching/
+
   - title: "CV"
     url: /cv/
-    
