@@ -21,7 +21,7 @@ repository               : "afarhoodi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar.jpg"
   name             : "Abdollah Farhoodi"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor of Real Estate and Urban Land Economics, Wisconsin School of Business"
