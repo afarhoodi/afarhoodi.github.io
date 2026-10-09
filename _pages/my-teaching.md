@@ -52,7 +52,6 @@ redirect_from:
     <h3 class="course-card__title">Introduction to Microeconomics</h3>
     <span class="badge badge--year">2020–2025</span>
   </div>
-  <p class="course-card__meta"><span class="stat-chip">1,800+ students</span> <span class="stat-chip">30 teaching assistants</span></p>
 </div>
 
 ## University of Illinois Urbana-Champaign
@@ -62,7 +61,7 @@ redirect_from:
     <h3 class="course-card__title">Applied Machine Learning in Economics</h3>
     <span class="badge badge--year">2019–2020</span>
   </div>
-  <p class="course-card__meta"><span class="stat-chip stat-chip--gold">Top 5% of instructors — <a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2019-spring.pdf">Teachers Ranked as Excellent</a>, three consecutive semesters</span></p>
+  <p class="course-card__meta"><span class="stat-chip stat-chip--gold">Top 5% of instructors — <a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2019-spring.pdf">Teachers Ranked as Excellent</a>, all semesters</span></p>
   <details class="reveal">
     <summary>Topics</summary>
     <div class="reveal__body">
@@ -70,23 +69,4 @@ redirect_from:
     </div>
   </details>
   <p class="course-card__links"><a class="btn btn--paper" href="https://econml.web.illinois.edu/syllabus">Syllabus</a></p>
-</div>
-
-<div class="course-card">
-  <div class="course-card__header">
-    <h3 class="course-card__title">Teaching Assistant</h3>
-  </div>
-  <div class="course-card__body">
-    <p><strong>Introduction to Microeconomics</strong> — recognized on the "List of Teachers Ranked as Excellent by Their Students" for five consecutive semesters</p>
-    <p><strong>Intermediate Microeconomics</strong></p>
-  </div>
-</div>
-
-## Sharif University of Technology
-
-<div class="course-card">
-  <div class="course-card__header">
-    <h3 class="course-card__title">Teaching Assistant (Graduate Level)</h3>
-  </div>
-  <p class="course-card__meta">Econometrics I &middot; Game Theory &middot; Microeconomics II</p>
 </div>
