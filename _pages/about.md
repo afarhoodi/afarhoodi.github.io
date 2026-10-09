@@ -16,5 +16,5 @@ I received my Ph.D. in Economics from the University of Illinois Urbana-Champaig
 
 ## News
 
-* **July 2026** — Joined the Wisconsin School of Business, University of Wisconsin–Madison, as an Assistant Professor of Real Estate and Urban Land Economics through the RISE-AI initiative.
+* **July 2026** — [Joined the Wisconsin School of Business](https://business.wisc.edu/centers/graaskamp/news/abdollah-farhoodi-joins-wisconsin-real-estate-bringing-expertise-in-ai-and-housing-markets/), University of Wisconsin–Madison, as an Assistant Professor of Real Estate and Urban Land Economics through the RISE-AI initiative.
 * **2026** — Awarded an AI Hub for Business Grant, University of Wisconsin–Madison.
