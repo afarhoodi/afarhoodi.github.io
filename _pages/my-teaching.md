@@ -55,18 +55,29 @@ redirect_from:
 </div>
 
 ## University of Illinois Urbana-Champaign
-
 <div class="course-card">
   <div class="course-card__header">
     <h3 class="course-card__title">Applied Machine Learning in Economics</h3>
     <span class="badge badge--year">2019–2020</span>
   </div>
-  <p class="course-card__meta"><span class="stat-chip stat-chip--gold">Top 5% of instructors — <a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2019-spring.pdf">Teachers Ranked as Excellent</a>, all 3 semesters</span></p>
+
+  <p class="course-card__meta">
+    <span>
+      Top 5% of instructors —
+      <a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2019-spring.pdf">
+        Teachers Ranked as Excellent
+      </a>, all 3 semesters
+    </span>
+  </p>
+
   <details class="reveal">
     <summary>Topics</summary>
     <div class="reveal__body">
       <p>Statistical Learning with R, Shrinkage Methods, Random Forest, Bagging, Boosting, SVM, Neural Networks, Causal Inference with ML</p>
     </div>
   </details>
-  <p class="course-card__links"><a class="btn btn--paper" href="https://econml.web.illinois.edu/syllabus">Syllabus</a></p>
+
+  <p class="course-card__links">
+    <a class="btn btn--paper" href="https://econml.web.illinois.edu/syllabus">Syllabus</a>
+  </p>
 </div>
