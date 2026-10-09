@@ -61,7 +61,7 @@ redirect_from:
     <h3 class="course-card__title">Applied Machine Learning in Economics</h3>
     <span class="badge badge--year">2019–2020</span>
   </div>
-  <p class="course-card__meta"><span class="stat-chip stat-chip--gold">Top 5% of instructors — <a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2019-spring.pdf">Teachers Ranked as Excellent</a>, all semesters</span></p>
+  <p class="course-card__meta"><span class="stat-chip stat-chip--gold">Top 5% of instructors — <a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2019-spring.pdf">Teachers Ranked as Excellent</a>, all 3 semesters</span></p>
   <details class="reveal">
     <summary>Topics</summary>
     <div class="reveal__body">
