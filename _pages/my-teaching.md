@@ -8,76 +8,37 @@ redirect_from:
 
 ## University of Wisconsin–Madison
 
-<div class="course-card">
-  <div class="course-card__header">
-    <h3 class="course-card__title">AI in Real Estate</h3>
-    <span class="badge badge--year">2026</span><span class="badge badge--new">New</span>
-  </div>
+<div class="entry">
+  <h3 class="entry__title">AI in Real Estate <span class="entry__year">2026</span></h3>
 </div>
 
 ## University of Toronto
 
-<div class="course-card">
-  <div class="course-card__header">
-    <h3 class="course-card__title">Urban Economics</h3>
-    <span class="badge badge--year">2021–2025</span>
-  </div>
-  <p class="course-card__links"><a class="btn btn--paper" href="https://www.economics.utoronto.ca/index.php/index/teaching/downloadCourseOutline/6623/997888888">Syllabus</a></p>
+<div class="entry">
+  <h3 class="entry__title">Urban Economics <span class="entry__year">2021–2025</span></h3>
+  <p class="entry__links"><a href="https://www.economics.utoronto.ca/index.php/index/teaching/downloadCourseOutline/6623/997888888">Syllabus</a></p>
 </div>
 
-<div class="course-card">
-  <div class="course-card__header">
-    <h3 class="course-card__title">Big Data and Applied Machine Learning in Economics</h3>
-    <span class="badge badge--year">2023</span>
-  </div>
-  <p class="course-card__meta">University of Toronto summer program hosted by the University of Oxford</p>
+<div class="entry">
+  <h3 class="entry__title">Big Data and Applied Machine Learning in Economics <span class="entry__year">2023</span></h3>
+  <p class="entry__meta">University of Toronto summer program hosted by the University of Oxford</p>
 </div>
 
-<div class="course-card">
-  <div class="course-card__header">
-    <h3 class="course-card__title">Big Data Tools for Economists</h3>
-    <span class="badge badge--year">2021</span>
-  </div>
-  <details class="reveal">
-    <summary>Topics</summary>
-    <div class="reveal__body">
-      <p>Introduction to Python, Git, Data Visualization and Mapping, Satellite Data, Web-scraping, Textual Analysis, Machine Learning</p>
-    </div>
-  </details>
-  <p class="course-card__links"><a class="btn btn--paper" href="https://www.economics.utoronto.ca/index.php/index/teaching/downloadCourseOutline/5538/120659">Syllabus</a></p>
+<div class="entry">
+  <h3 class="entry__title">Big Data Tools for Economists <span class="entry__year">2021</span></h3>
+  <p class="entry__meta">Topics: Python, Git, data visualization and mapping, satellite data, web-scraping, textual analysis, machine learning</p>
+  <p class="entry__links"><a href="https://www.economics.utoronto.ca/index.php/index/teaching/downloadCourseOutline/5538/120659">Syllabus</a></p>
 </div>
 
-<div class="course-card">
-  <div class="course-card__header">
-    <h3 class="course-card__title">Introduction to Microeconomics</h3>
-    <span class="badge badge--year">2020–2025</span>
-  </div>
+<div class="entry">
+  <h3 class="entry__title">Introduction to Microeconomics <span class="entry__year">2020–2025</span></h3>
 </div>
 
 ## University of Illinois Urbana-Champaign
-<div class="course-card">
-  <div class="course-card__header">
-    <h3 class="course-card__title">Applied Machine Learning in Economics</h3>
-    <span class="badge badge--year">2019–2020</span>
-  </div>
 
-  <p class="course-card__meta">
-    <span>
-      Top 5% of instructors —
-      <a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2019-spring.pdf">
-        Teachers Ranked as Excellent
-      </a>, all 3 semesters
-    </span>
-  </p>
-
-  <details class="reveal">
-    <summary>Topics</summary>
-    <div class="reveal__body">
-      <p>Statistical Learning with R, Shrinkage Methods, Random Forest, Bagging, Boosting, SVM, Neural Networks, Causal Inference with ML</p>
-    </div>
-  </details>
-
-  <p class="course-card__links">
-    <a class="btn btn--paper" href="https://econml.web.illinois.edu/syllabus">Syllabus</a>
-  </p>
+<div class="entry">
+  <h3 class="entry__title">Applied Machine Learning in Economics <span class="entry__year">2019–2020</span></h3>
+  <p class="entry__meta">Ranked in the top 5% of instructors (<a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2019-spring.pdf">Teachers Ranked as Excellent</a>, all 3 semesters)</p>
+  <p class="entry__meta">Topics: Statistical learning with R, shrinkage methods, random forests, bagging, boosting, SVM, neural networks, causal inference with ML</p>
+  <p class="entry__links"><a href="https://econml.web.illinois.edu/syllabus">Syllabus</a></p>
 </div>
