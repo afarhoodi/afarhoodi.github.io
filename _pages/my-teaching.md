@@ -40,5 +40,4 @@ redirect_from:
   <h3 class="entry__title">Applied Machine Learning in Economics <span class="entry__year">2019–2020</span></h3>
   <p class="entry__meta">Ranked in the top 5% of instructors (<a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2019-spring.pdf">Teachers Ranked as Excellent</a>, all 3 semesters)</p>
   <p class="entry__meta">Topics: Statistical learning with R, shrinkage methods, random forests, bagging, boosting, SVM, neural networks, causal inference with ML</p>
-  <p class="entry__links"><a href="https://econml.web.illinois.edu/syllabus">Syllabus</a></p>
 </div>
